@@ -1,0 +1,71 @@
+.container{
+    width: 600px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+
+
+.satu, .dua, .tiga, .empat{
+    width: 100px;
+    height: 100px;
+}
+
+.satu{
+    background-color: aquamarine;
+    float: right;
+}
+
+.dua{
+    background-color: red;
+}
+
+.tiga{
+    background-color: blue;
+    float: left;
+}
+
+.empat{
+    background-color: red;
+    float: right;
+}
+.container2{
+    width: 600px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 5px;
+}
+.gambar{
+    width: 200px;
+    height: 200px;
+    background-image: url(img/komputer.jpg);
+    background-size: cover;
+    float: right;
+    margin: 5px;
+}
+
+.container3{
+    width:600px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+.kotak{
+    width: 80px;
+    height: 80px;
+    background-color: salmon;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+    font-size: 30px;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+}
+
+.clear{
+    clear: left;
+}
